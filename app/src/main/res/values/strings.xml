@@ -1,0 +1,20 @@
+<!--
+  ~ Copyright (c) 7/1/2020. Created by André Scafi
+  -->
+
+<resources>
+    <string name="app_name">The Pokemon Info</string>
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="name">name</string>
+    <string name="type">Type</string>
+    <string name="stats">Stats</string>
+    <string name="hp">HP</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="sp_atk">Sp. Atk</string>
+    <string name="sp_def">Sp. Def</string>
+    <string name="speed">Speed</string>
+    <string name="total">Total</string>
+</resources>
